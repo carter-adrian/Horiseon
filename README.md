@@ -11,6 +11,11 @@ There were several issues dealing with the HTML semantics. Primarily dealing wit
 a title for the img. The <div> tags were all replaced to better orginize the page and make editing later, easier for the user. I learned how to better orginize the page and make the material simplified in the css file. I also attempted some responsive css, but continue to struggle getting it to work. However, I maade some minor tweeks to the imgs in the body of the site.
 I learned about semantics and how to better structure the site using logical elements.
 
+https://carter-adrian.github.io/Horiseon/
+
+![alt](assets/images/screenshot_1.png)
+![alt](assets/images/screenshot_2.png)
+
 ## Installation
 
 There are no current steps. This will be turned in as a simple website and git repo.
