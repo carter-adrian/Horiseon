@@ -1,6 +1,6 @@
 # Horiseon
 Class Week 1 Challenge
-# <Module Week 1>
+# Module Week 1
 
 ## Description
 
