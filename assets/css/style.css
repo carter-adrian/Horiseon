@@ -60,7 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* added box-shadow */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -82,7 +82,7 @@ p {
     border-radius: 25px;
     box-shadow: 10px 10px 10px lightblue;
 }
-
+/* added border radius and solid borders for the sections */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -91,6 +91,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
     border-radius: 25px;
+    border: solid black;
 }
 
 .online-reputation-management {
@@ -101,6 +102,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
     border-radius: 25px;
+    border: solid black;
 }
 
 .social-media-marketing {
@@ -111,6 +113,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
     border-radius: 25px;
+    border: solid black;
+
 }
 
 .search-engine-optimization img {
@@ -128,6 +132,8 @@ p {
 .online-reputation-management .social-media-marketing .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    border: solid;
+
 }
 
 

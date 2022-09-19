@@ -9,8 +9,7 @@ Provide a short description explaining the what, why, and how of your project. U
 Project was produced in order for us to get a chance at working on a real scenario, fixing the HTML and CSS of a client's webpage.
 There were several issues dealing with the HTML semantics. Primarily dealing with the overabundance of <div> tags and a lack of alt elements for the images. The alt tags were added to create
 a title for the img. The <div> tags were all replaced to better orginize the page and make editing later, easier for the user. I learned how to better orginize the page and make the material simplified in the css file. I also attempted some responsive css, but continue to struggle getting it to work. However, I maade some minor tweeks to the imgs in the body of the site.
-- What did you learn?
-
+I learned about semantics and how to better structure the site using logical elements.
 
 ## Installation
 
